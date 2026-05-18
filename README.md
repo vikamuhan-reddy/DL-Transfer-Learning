@@ -16,6 +16,7 @@ The dataset consists of image samples organized into **training** and **testing*
 ---
 
 ## Neural Network Model
+<img width="715" height="517" alt="image" src="https://github.com/user-attachments/assets/99335698-c3c4-4c5d-95ee-e310d2f85ad4" />
 
 
 ---
@@ -44,11 +45,9 @@ Predict the output for new sample images and compare actual and predicted result
 
 ## PROGRAM
 
-### Name:
-**Your Name**
+### Name: Vikamuhan Reddy
 
-### Register Number:
-**Your Register Number**
+### Register Number: 212223240181
 
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
